@@ -36,17 +36,16 @@ The simulation accounts for:
 The Moon is treated as orbiting the Earth, modeled as a fixed origin representing the centre of Earth's mass. The probe is influenced by gravitational forces from both the Earth and the Moon. The equations of motion are:
 
 **Moon's motion**  
-\[
-\ddot{\vec{r}}_m = -\frac{GM_e}{|\vec{r}_m|^3} \vec{r}_m
-\]
+![Equation of motion of the moon](moon_eq_motion.png)
+> Equation of motion describing how the moon's position will vary with time.
 
 **Probe's motion**  
-\[
-\ddot{\vec{r}}_p = -\frac{GM_e}{|\vec{r}_p|^3} \vec{r}_p - \frac{GM_m}{|\vec{r}_{pm}|^3} \vec{r}_{pm}
-\]
+![Equation of motion of the moon](probe_eq_motion.png)
+> Equation of motion describing how the probe's position will vary with time.
+
 
 where:
-- \( \vec{r}_m \): position vector of the Moon from Earth
-- \( \vec{r}_p \): position vector of the probe from Earth
-- \( \vec{r}_{pm} = \vec{r}_p - \vec{r}_m \): probe's position relative to the Moon
+- r_m: position vector of the Moon from Earth
+- r_p: position vector of the probe from Earth
+- r_pm: probe's position relative to the Moon
 
