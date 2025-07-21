@@ -26,7 +26,7 @@ The simulation accounts for:
 
 ## Sample Output
 
-![Probe orbiting the Moon](images/probe and moon plot clip.png)
+![Probe orbiting the Moon](images/probe_and_moon_plot_clip.png)
 > Probe orbiting the Moon while both orbit the Earth. Simulated in Python with `solve_ivp`.
 
 ---
