@@ -26,8 +26,7 @@ The simulation accounts for:
 
 ## Sample Output
 
-image file path
-
+![Probe orbiting the Moon](images/probe_and_moon_plot_clip.png)
 > Probe orbiting the Moon while both orbit the Earth. Simulated in Python with `solve_ivp`.
 
 ---
@@ -50,8 +49,4 @@ where:
 - \( \vec{r}_m \): position vector of the Moon from Earth
 - \( \vec{r}_p \): position vector of the probe from Earth
 - \( \vec{r}_{pm} = \vec{r}_p - \vec{r}_m \): probe's position relative to the Moon
-
----
-
-## 📁 Project Structure
 
