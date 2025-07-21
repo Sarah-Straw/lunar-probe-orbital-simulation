@@ -36,11 +36,11 @@ The simulation accounts for:
 The Moon is treated as orbiting the Earth, modeled as a fixed origin representing the centre of Earth's mass. The probe is influenced by gravitational forces from both the Earth and the Moon. The equations of motion are:
 
 **Moon's motion**  
-![Equation of motion of the moon](moon_eq_motion.png)
+![Equation of motion of the moon](images/moon_eq_motion.png)
 > Equation of motion describing how the moon's position will vary with time.
 
 **Probe's motion**               
-![Equation of motion of the moon](probe_eq_motion.png)
+![Equation of motion of the moon](images/probe_eq_motion.png)
 > Equation of motion describing how the probe's position will vary with time.
 
 
