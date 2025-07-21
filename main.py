@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #
-# Imports go here
+# Imports 
 #
 import numpy as np
 import scipy.integrate as si
