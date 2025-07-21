@@ -39,7 +39,7 @@ The Moon is treated as orbiting the Earth, modeled as a fixed origin representin
 ![Equation of motion of the moon](moon_eq_motion.png)
 > Equation of motion describing how the moon's position will vary with time.
 
-**Probe's motion**  
+**Probe's motion**               
 ![Equation of motion of the moon](probe_eq_motion.png)
 > Equation of motion describing how the probe's position will vary with time.
 
