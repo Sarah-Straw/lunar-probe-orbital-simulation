@@ -26,10 +26,10 @@ The simulation accounts for:
 
 ## Output Plots
 
-![Probe orbiting the Moon](images/probe_and_moon_plot.png)
+![Probe orbiting the Moon](images/probe_and_moon_plot_clip.png)
 > Probe orbiting the Moon while both orbit the Earth. Simulated in Python with `solve_ivp`.
 
-![Probe orbiting the Moon](images/2d_speed_probe_plot.png)
+![Probe orbiting the Moon](images/2d_speed_of_probe_plot.png)
 > Speed of the probe along two orthogonal axes verying with time.
 
 ---
